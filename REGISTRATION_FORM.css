@@ -26,7 +26,7 @@ header {
 }
   
 .heading {
-    color: green;
+    color: yellow;
 }
   
 .title {
@@ -37,7 +37,7 @@ header {
 .container {
     height: 600px;
     width: 500px;
-    background-color: white;
+    background-color: off white;
     box-shadow: 8px 8px 20px rgb(128, 128, 128);
     position: relative;
     overflow: hidden;
